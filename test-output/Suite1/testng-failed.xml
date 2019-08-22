@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Regression1(failed)">
+    <classes>
+      <class name="com.jass.catalognew.TestNGassignment">
+        <methods>
+          <include name="NewProdAug"/>
+          <include name="privacy"/>
+          <include name="openConnection"/>
+        </methods>
+      </class> <!-- com.jass.catalognew.TestNGassignment -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
